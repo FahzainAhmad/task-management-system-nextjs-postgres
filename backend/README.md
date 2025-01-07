@@ -41,8 +41,7 @@ Ensure you have the following installed on your system:
 
 ### Setup Instructions
 1. **Clone the Repository**
-   git clone https://github.com/your-repo/task-backend.git
-   cd task-backend
+   Clone this repository and cd task-backend
    
 2. **Install Dependencies**  
    Run the following command to install all required dependencies:
