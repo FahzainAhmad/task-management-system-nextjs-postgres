@@ -13,6 +13,7 @@ This is a full-stack task management system, consisting of both backend and fron
 - **JWT Authentication** for secure user sessions.
 - Implements **validations** and **error handling** to ensure robust functionality.
 - Supports **pagination** and **filtering** for efficient data retrieval.
+  
 
 #### Frontend:
 - Data fetching using **Axios**.
@@ -55,6 +56,7 @@ The project follows the **MVC** architecture for the backend:
 - **Components**: Reusable UI components built with Material UI.
 - **Hooks**: Custom React hooks for data fetching and state management.
 - **Services**: Axios-based services for API requests.
+- Check out the frontend Readme.md for more details.
 
 ## ***Check out each folder for its setup.***
 
