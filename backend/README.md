@@ -26,7 +26,7 @@ This is a backend service for a task management system, built using modern web d
 ## Project Structure
 The project follows the **MVC** architecture:
 - **Models**: Defines database schemas and relationships using Sequelize.
-- **Views**: N/A (API-only backend, no UI rendering).
+- **Views**: Checkout the ***Frontend Folder***
 - **Controllers**: Contains logic to handle HTTP requests and responses.
 
 ---
