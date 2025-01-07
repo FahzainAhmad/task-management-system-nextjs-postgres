@@ -41,7 +41,7 @@ Ensure you have the following installed on your system:
 
 ### Setup Instructions
 1. **Clone the Repository**
-   Clone this repository and cd task-backend
+   Clone this repository and cd backend
    
 2. **Install Dependencies**  
    Run the following command to install all required dependencies:
