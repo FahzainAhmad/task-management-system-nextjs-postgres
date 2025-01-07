@@ -1,0 +1,169 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.title {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.form {
+    width: 90%;
+    max-width: 400px;
+}
+
+.field {
+    margin-bottom: 1rem;
+}
+
+.button {
+    margin-top: 1rem;
+}
+
+.loginLink {
+    margin-top: 1rem;
+}
+
+.topBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+    background-color: #6200ea;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.left {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logoutButton {
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.logoutButton:hover {
+    background-color: #bb86fc;
+}
+
+.mainContainer {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+    flex-direction: column;
+}
+
+.cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+    padding-inline: 20px;
+}
+
+.cardWrapper {
+    flex: 1 1 300px;
+    display: flex;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.cardWrapper:hover {
+    transform: translateY(-10px);
+}
+
+.card {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.cardContent {
+    padding: 16px;
+}
+
+.cardTitle {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.cardDescription {
+    color: #555;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.cardActions {
+    padding: 12px 16px;
+    justify-content: flex-end;
+}
+
+.button {
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+.completedStatus {
+    color: #388e3c;
+    font-weight: 600;
+}
+
+.inproStatus {
+    color: #1594c6;
+    font-weight: 600;
+}
+
+.pendingStatus {
+    color: #d32f2f;
+    font-weight: 600;
+}
+
+.paginationContainer {
+    margin-top: 1rem;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.loadingContainer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.filterContainer {
+    margin-bottom: 20px;
+    padding-inline: 20px;
+}
+
+.createTask {
+    padding: 20px;
+    background-color: #6200ea;
+    position: absolute;
+    bottom: 2rem;
+    right: 2rem;
+    border-radius: 50px;
+}

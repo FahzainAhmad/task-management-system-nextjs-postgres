@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/tasklist/page": "app/tasklist/page.js",
+  "/login/page": "app/login/page.js",
+  "/create/page": "app/create/page.js",
+  "/change/[id]/page": "app/change/[id]/page.js"
+}
