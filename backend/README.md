@@ -49,12 +49,17 @@ Ensure you have the following installed on your system:
 
 3. **Configure the Environment**  
    Create an .env file in the root directory and populate it with the following variables:
-   DB_NAME=tasks_db
-   DB_USER=your_postgres_user
-   DB_PASSWORD=your_postgres_password
-   DB_HOST=localhost
-   DB_PORT=5432
-   JWT_SECRET=your_secret_key
+   ### Environment Variables
+
+   | Variable    | Description            | Default Value  |
+   |-------------|--------------------------|----------------|
+   | DB_NAME      | Database name for PostgreSQL    | tasks_db       |
+   | DB_USER      | PostgreSQL username           | your_postgres_user  |
+   | DB_PASSWORD  | PostgreSQL password           | your_postgres_password  |
+   | DB_HOST      | PostgreSQL host               | localhost      |
+   | DB_PORT      | PostgreSQL port               | 5432           |
+   | JWT_SECRET   | Secret key for JWT            | your_secret_key    |
+
 
 4. **Create the Database**  
    Before proceeding, ensure that the database tasks_db exists:
