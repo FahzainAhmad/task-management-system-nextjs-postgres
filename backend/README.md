@@ -62,7 +62,7 @@ Ensure you have the following installed on your system:
 
 
 4. **Create the Database**  
-   Before proceeding, ensure that the database tasks_db exists.
+   Before proceeding, ensure that the database **tasks_db** exists, create if doesn't.
 
 5. **Run Database Migrations**  
    Apply the necessary migrations to set up the database schema:
