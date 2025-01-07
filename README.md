@@ -57,3 +57,4 @@ The project follows the **MVC** architecture for the backend:
 - **Services**: Axios-based services for API requests.
 
 ## ***Check out each folder for its setup.***
+
