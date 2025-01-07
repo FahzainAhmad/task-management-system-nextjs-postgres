@@ -21,6 +21,7 @@ This is a frontend for a task management system, built using modern web developm
 - Pagination and filtering for efficient data retrieval.
 - Handling token expiration and renewal.
 - TypeScript types used for type safety.
+- **Responsive design** for seamless user experience across devices.
 
 
 ---
@@ -28,8 +29,7 @@ This is a frontend for a task management system, built using modern web developm
 ### Setup Instructions
 
 1. **Clone the Repository**  
-   git clone https://github.com/your-repo/task-frontend.git
-   cd task-frontend
+   Clone this repository and cd task-frontend
 
 2. **Install Dependencies**  
    npm install
