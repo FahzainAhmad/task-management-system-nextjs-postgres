@@ -1,3 +1,8 @@
+# Task Management Frontend
+
+## About the Project
+This is a frontend for a task management system, built using modern web development technologies. The project leverages **Next.js** for server-side rendering, ensuring fast and responsive user experiences. The architecture follows **Component-based** development with a focus on simplicity and maintainability.
+
 ### Technologies Used
 
 - **Next.js**  
@@ -6,7 +11,7 @@
 - **TypeScript**  
 - **Axios**  
 
-### Features
+### Key Features
 
 - Data fetching using **Axios**.
 - **LocalStorage** for token management.
