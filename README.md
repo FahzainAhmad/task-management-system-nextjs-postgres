@@ -23,6 +23,7 @@ This is a full-stack task management system, consisting of both backend and fron
 - **Pagination** and **filtering** for efficient data retrieval.
 - Handling token expiration.
 - TypeScript types used for type safety.
+- **Responsive design** for seamless user experience across devices.
 
 ## Technologies Used
 
