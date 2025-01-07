@@ -18,8 +18,10 @@ This is a frontend for a task management system, built using modern web developm
 - **Authorization** for secure API requests.
 - **Validations** and **error handling** for forms and API requests.
 - Task management features: showing, creating, updating, deleting.
+- Pagination and filtering for efficient data retrieval.
 - Handling token expiration and renewal.
 - TypeScript types used for type safety.
+
 
 ---
 
