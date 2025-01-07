@@ -29,7 +29,7 @@ This is a frontend for a task management system, built using modern web developm
 ### Setup Instructions
 
 1. **Clone the Repository**  
-   Clone this repository and cd task-frontend
+   Clone this repository and cd frontend
 
 2. **Install Dependencies**  
    npm install
