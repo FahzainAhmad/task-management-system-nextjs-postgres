@@ -1,7 +1,7 @@
-# Task Management Frontend
+# Task Management Backend
 
 ## About the Project
-This is a frontend for a task management system, built using modern web development technologies. The project leverages **Next.js** for server-side rendering, ensuring fast and responsive user experiences. The architecture follows **Component-based** development with a focus on simplicity and maintainability.
+This is a backend service for a task management system, built using modern web development technologies. The project follows the **MVC (Model-View-Controller)** architecture to ensure a clean separation of concerns, making the code maintainable and scalable.
 
 ### Key Features
 - Developed with **Node.js** and **Express** for server-side logic.
