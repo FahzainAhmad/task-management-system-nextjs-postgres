@@ -12,7 +12,7 @@ This is a full-stack task management system, consisting of both backend and fron
 - Built using **TypeScript** to ensure type safety and reduce runtime errors.
 - **JWT Authentication** for secure user sessions.
 - Implements **validations** and **error handling** to ensure robust functionality.
-- Supports **pagination** and **filtering** for efficient data retrieval.
+- Implements **pagination** and **filtering** for efficient data retrieval.
   
 
 #### Frontend:
